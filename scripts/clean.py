@@ -55,7 +55,7 @@ AI_TERMS = (
     r"generative|\bgen ?AI\b|large language model|\bagentic\b|\bAI agents?\b"
 )
 AI_TOOLS = (
-    r"AI tool|AI-native|AI-powered tools|AI coding|ChatGPT|\bClaude\b|\bCursor\b|"
+    r"AI tool|AI-native|AI-powered tools|AI coding|ChatGPT|Claude Code|(use|leverage)\w* Claude|\bCursor\b|"
     r"Copilot|prompt(ing)? |vibe cod|use(s|d)? AI|using AI|leverag\w* AI|"
     r"agentic coding|AI-enabled|coding (agents|tools)"
 )

@@ -50,7 +50,7 @@ Postings come down when jobs are filled, so running `collect.py` on a different 
 | `ai_tools_in_requirements` | yes/no | Requirements ask you to use AI tools yourself (e.g. "use AI tools in your workflow," ChatGPT, Claude, Cursor) |
 | `tech_sql`, `tech_coding`, `tech_cs_degree`, `tech_technical_background`, `tech_apis`, `tech_data_analytics` | yes/no | Technical skill mentioned in the requirements |
 | `soft_communication`, `soft_leadership`, `soft_collaboration`, `soft_stakeholders`, `soft_customer_focus` | yes/no | Soft skill mentioned in the requirements |
-| `tech_count`, `soft_count` | integer | Number of technical (0–6) and soft (0–5) skills mentioned |
+| `tech_count`, `soft_count` | integer | Number of technical (0-6) and soft (0-5) skills mentioned |
 | `min_years_experience` | number | First "N+ years of experience" in the requirements (lower end of ranges like "3-5 years") |
 | `pay_low`, `pay_high` | number | First USD pay range listed in the posting |
 | `pay_period` | category | `year` or `hour` |

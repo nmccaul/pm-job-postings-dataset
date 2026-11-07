@@ -1,0 +1,15 @@
+[project]
+name = "pm-job-postings-dataset"
+version = "0.1.0"
+description = "Product manager job postings collected from the Greenhouse Job Board API"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "matplotlib>=3.9",
+    "pandas>=2.2",
+    "requests>=2.32",
+    "seaborn>=0.13",
+]
+
+[tool.uv]
+package = false

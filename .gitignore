@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.DS_Store
+# raw API responses include full posting text, which we don't republish
+data/raw/

@@ -1,0 +1,55 @@
+slug,company,industry
+airbnb,Airbnb,Consumer
+figma,Figma,Software & dev tools
+stripe,Stripe,Fintech
+pinterest,Pinterest,Consumer
+reddit,Reddit,Consumer
+duolingo,Duolingo,Consumer
+instacart,Instacart,Consumer
+databricks,Databricks,Data & AI
+robinhood,Robinhood,Fintech
+lyft,Lyft,Consumer
+coinbase,Coinbase,Fintech
+asana,Asana,Software & dev tools
+squarespace,Squarespace,Software & dev tools
+gitlab,GitLab,Software & dev tools
+twilio,Twilio,Software & dev tools
+okta,Okta,Security & infrastructure
+cloudflare,Cloudflare,Security & infrastructure
+datadog,Datadog,Security & infrastructure
+mongodb,MongoDB,Data & AI
+elastic,Elastic,Data & AI
+zscaler,Zscaler,Security & infrastructure
+discord,Discord,Consumer
+affirm,Affirm,Fintech
+chime,Chime,Fintech
+brex,Brex,Fintech
+gusto,Gusto,Fintech
+samsara,Samsara,Hardware & IoT
+toast,Toast,Fintech
+flexport,Flexport,Logistics
+verkada,Verkada,Hardware & IoT
+scaleai,Scale AI,Data & AI
+anthropic,Anthropic,Data & AI
+roblox,Roblox,Gaming
+epicgames,Epic Games,Gaming
+twitch,Twitch,Gaming
+carvana,Carvana,Consumer
+nextdoor,Nextdoor,Consumer
+faire,Faire,Consumer
+klaviyo,Klaviyo,Software & dev tools
+mixpanel,Mixpanel,Data & AI
+intercom,Intercom,Software & dev tools
+calendly,Calendly,Software & dev tools
+smartsheet,Smartsheet,Software & dev tools
+fivetran,Fivetran,Data & AI
+sofi,SoFi,Fintech
+mercury,Mercury,Fintech
+betterment,Betterment,Fintech
+gemini,Gemini,Fintech
+riotgames,Riot Games,Gaming
+lattice,Lattice,Software & dev tools
+justworks,Justworks,Fintech
+pagerduty,PagerDuty,Security & infrastructure
+sumologic,Sumo Logic,Security & infrastructure
+vercel,Vercel,Software & dev tools
